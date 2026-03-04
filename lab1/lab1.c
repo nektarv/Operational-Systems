@@ -70,6 +70,8 @@ int main(int argc, char *argv[]) {
             perror("WRITE");
             exit(1);
         }
+        
+        exit(0);
     }
 
     if (close(fd) == -1){
