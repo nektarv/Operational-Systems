@@ -52,7 +52,7 @@ A two-round-trip protocol:
 ## Build
 
 ```bash
-gcc lab.c -o a
+gcc lab4.c -o a
 ```
 
 ## Usage
