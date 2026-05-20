@@ -48,7 +48,7 @@ Both binaries must be in the same directory. The parent locates the child execut
 ## Usage
 
 ```bash
-./assignment2 <N>
+./a <N>
 ```
 
 | Argument | Description |
