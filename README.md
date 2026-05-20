@@ -13,7 +13,7 @@ The exercises are implemented in C on Linux/POSIX systems and cover fundamental 
 
 ---
 
-# Repository Structure
+## Repository Structure
 
 | Lab | Topic |
 |---|---|
@@ -24,7 +24,7 @@ The exercises are implemented in C on Linux/POSIX systems and cover fundamental 
 
 ---
 
-# Requirements
+## Requirements
 
 - GCC
 - Linux or POSIX-compatible environment
